@@ -43,11 +43,14 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-![](https://i.imgur.com/7I96g9c.gif)
-![](https://i.imgur.com/YU3xRh6.gif)
-![](https://i.imgur.com/rQ0aAK2.gif)
-![](https://i.imgur.com/8NsZFu1.gif)
-
+<p float="left">
+<img src='https://i.imgur.com/7I96g9c.gif' width=250 alt='Summer #1' />
+<img src='https://i.imgur.com/YU3xRh6.gif' width=250 alt='Summer #2' />
+<img src='https://i.imgur.com/rQ0aAK2.gif' width=250 alt='Summer #3' />
+<img src='https://i.imgur.com/8NsZFu1.gif' width=250 alt='Summer #4' />
+<img src='https://i.imgur.com/IZ4uSu8.gif' width=250 alt='Summer #5' />
+<img src='https://i.imgur.com/eny5HtT.gif' width=250 alt='Summer #6' />
+</p>
 
 GIF created with [Ezgif](https://ezgif.com).
 
